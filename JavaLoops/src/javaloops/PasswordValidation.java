@@ -16,11 +16,12 @@ public class PasswordValidation {
         boolean validPassword = false;
 
         while (!validPassword) {
-            // ask the user for a password
+            System.out.println("Enter Your Username: ");
+            char UserName = input.nextLine().charAt(0);
             System.out.print("Enter a password: ");
             String password = input.nextLine();
 
-            // check if the password meets the criteria
+            
             if (password.length() < 8) {
                 System.out.println("Password must be at least 8 characters long.");
             } else {
@@ -47,6 +48,6 @@ public class PasswordValidation {
             }
         }
 
-        input.close(); // remember to close the scanner object
+        input.close(); 
     }
 }
