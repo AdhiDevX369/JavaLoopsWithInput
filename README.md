@@ -12,9 +12,3 @@ This repository contains Java programs that use loops and input from the user.
 <li>Fibonacci sequence: Asks the user to input a number and then prints out the first n numbers in the Fibonacci sequence using a loop. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding numbers, starting with 0 and 1.</li>
 <li>Multiplication table: Asks the user to input a number and then prints out the multiplication table for that number using a loop. The multiplication table is a table showing the products of multiplying the number by all integers from 1 to 10.</li>
 </ol>
-2 / 2
-
-
-
-
-
