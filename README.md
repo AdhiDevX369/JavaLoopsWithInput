@@ -1,4 +1,5 @@
-#JavaLoopsWithInput
+<b>JavaLoopsWithInput
+
 This repository contains Java programs that use loops and input from the user.
 
 #Programs
