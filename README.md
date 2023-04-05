@@ -1,8 +1,8 @@
-<b>JavaLoopsWithInput
+<h1>JavaLoopsWithInput</h1>
 
 This repository contains Java programs that use loops and input from the user.
 
-#Programs
+<h2>Programs</h2>
 <ol type = "1">
 <li>Summing numbers: Asks the user to input a series of numbers and then calculates the sum of those numbers using a loop.</li>
 <li>Counting occurrences: Asks the user to input a string and a character, and then counts the number of occurrences of that character in the string using a loop.</li>
